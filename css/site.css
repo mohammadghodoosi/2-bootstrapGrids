@@ -7,3 +7,17 @@ main>.container {
   bottom: 0;
   width: 100% ;
 }
+.bgHome{
+  background:url(/img/GridBG.png);
+  width:100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.title{
+  font-family: modesto-open-shadow,sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:rgb(190,255,0)
+}

@@ -22,5 +22,9 @@ main>.container {
   color:rgb(190,255,0)
 }
 .minHeight{
-  min-height:80vh;
+  height:70vh;
+}
+body>main{
+  margin-top: 50px;
+  margin-bottom:10px;
 }

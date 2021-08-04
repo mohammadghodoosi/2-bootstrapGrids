@@ -29,3 +29,10 @@ body>main{
   margin-top: 10px;
   margin-bottom:10px;
 }
+main>.container-xl{
+  margin-top:60px
+}
+main>.container-fluid{
+  margin-top:60px
+}
+
